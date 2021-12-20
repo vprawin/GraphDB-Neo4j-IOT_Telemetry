@@ -1,6 +1,6 @@
 id,entType,name
 thermistor,Sensor,Temperature
 Positioning,Sensor,Position
-Optical Sensor,Sensor,IR & Photosensitive
+Optical_Sensor,Sensor,IR & Photosensitive
 Flow,Sensor,Flow Sesnor
 trip,Sensor,soft trip
