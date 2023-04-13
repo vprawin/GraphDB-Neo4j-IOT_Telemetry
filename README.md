@@ -35,4 +35,11 @@ Below are the entites considered to supply IOT Telemetry Data
 
 ![alt text](https://github.com/vprawin/GraphDB/blob/main/Image%20Source/Graph%20Schema.png)
 
+
 Note: Graph Schema is created by adding entities as part of Graph Source Files and connected using Relation Data (Relation.csv)
+
+
+
+## GraphDB after Data Load
+
+![alt text](https://github.com/vprawin/GraphDB/blob/main/Image%20Source/GraphDB.png)
