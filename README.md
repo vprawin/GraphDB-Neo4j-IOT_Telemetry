@@ -33,4 +33,4 @@ Below are the entites considered to supply IOT Telemetry Data
 
 ## GraphDB Schema 
 
-![alt text](https://github.com/vprawin/GraphDB/blob/main/Image%20Source/Graph Schema.png.png)
+![alt text](https://github.com/vprawin/GraphDB/blob/main/Image%20Source/Graph Schema.png)
