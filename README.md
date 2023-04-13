@@ -3,7 +3,8 @@
 
 A graph database, also known as a graph-oriented database or graph data store, is a type of NoSQL database that uses graph theory to store, map, and query relationships between data. In a graph database, data is represented in the form of nodes and edges, where nodes represent entities and edges represent relationships between these entities.
 
-A simple example is shown below
+###A simple example is shown below
+
 ![alt text](https://github.com/vprawin/GraphDB/blob/main/Image%20Source/graphdb_example.png)
 
 
