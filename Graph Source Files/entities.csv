@@ -1,0 +1,15 @@
+﻿id,entType,name
+acpower,Power,AC Power
+net_adapter,Network,Network Adapter
+gprs,Network,GPRS
+gps,Module,GPS
+board,Module,Logic Board
+thermistor,Sensor,Temperature
+Positioning,Sensor,Position
+Optical_Sensor,Sensor,IR & Photosensitive
+Flow,Sensor,Flow Sesnor
+trip,Sensor,soft trip
+vendor1,Vendor,Vendor-1
+vendor2,Vendor,Vendor-2
+mfg1,Manufacturer,HP
+laser,Thingtype,LASER Printer

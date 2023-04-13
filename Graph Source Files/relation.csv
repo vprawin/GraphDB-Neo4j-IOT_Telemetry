@@ -1,0 +1,29 @@
+thingId,relationshipname,entityid,prop
+Thing01,IS_POWERED_BY,acpower,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
+Thing02,IS_POWERED_BY,acpower,"{ dateinstalled: 1451174400, expectedinspection: 1624233600 }"
+Thing01,IS_EQUIPPED_WITH,gps,"{appid: ""ttn_appid_01"", devid: ""ttn_dev_id_01""}"
+Thing02,IS_EQUIPPED_WITH,board,"{appid: ""ttn_appid_02"", devid: ""ttn_dev_id_02""}"
+Thing01,IS_MANUFACTURED_BY,mfg1,{}
+Thing02,IS_MANUFACTURED_BY,mfg1,{}
+Thing01,IS_FROM_VENDOR,vendor1,{}
+Thing02,IS_FROM_VENDOR,vendor2,{}
+Thing01,IS_OF_TYPE,laser,{}
+Thing02,IS_OF_TYPE,laser,{}
+Thing01,IS_USING,net_adapter,{}
+Thing02,IS_USING,gprs,{}
+Thing01,IS_COMPOSED_OF_SENSOR,thermistor,"{low: 10, high: 23}"
+Thing01,IS_COMPOSED_OF_SENSOR,Positioning,"{low: 12, high: 43}"
+Thing01,IS_COMPOSED_OF_SENSOR,Optical_Sensor,"{low: 5, high: 23}"
+Thing01,IS_COMPOSED_OF_SENSOR,Flow,"{low: 5, high: 23}"
+Thing01,IS_COMPOSED_OF_SENSOR,trip,"{low: 10, high: 23}"
+Thing02,IS_COMPOSED_OF_SENSOR,thermistor,"{low: 10, high: 23}"
+Thing02,IS_COMPOSED_OF_SENSOR,Positioning,"{low: 12, high: 43}"
+Thing02,IS_COMPOSED_OF_SENSOR,Optical_Sensor,"{low: 5, high: 23}"
+Thing02,IS_COMPOSED_OF_SENSOR,Flow,"{low: 5, high: 23}"
+Thing02,IS_COMPOSED_OF_SENSOR,trip,"{low: 10, high: 23}"
+Thing01,IS_FEEDING_DATA_TO,application01,
+Thing02,IS_FEEDING_DATA_TO,application01,
+application01,IS_CONTROLLING,Thing01,
+application01,IS_CONTROLLING,Thing02,
+application01,IS_USED_BY,it,
+application01,IS_USED_BY,fs,
